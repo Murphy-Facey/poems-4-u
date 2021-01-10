@@ -14,7 +14,9 @@ As mentioned above, here is the list of cool features I want to trying add to th
 ## How it will be made
 
 For the front-end, I am using:
+
 - React
+
 For the back-end, I am using:
 - Express
 
